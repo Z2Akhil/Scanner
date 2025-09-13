@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="flex justify-between items-center">
         <div className="flex items-center">
           <i className="fas fa-shield-alt text-[#00FF9C] text-2xl mr-3"></i>
-          <h1 className="text-xl font-bold tracking-wider"><Link to="/">CyberShield</Link></h1>
+          <h1 className="text-xl font-bold tracking-wider"><Link to="/">Scanner</Link></h1>
         </div>
         <div className="hidden md:flex space-x-6">
           <a href="#" className="text-gray-300 hover:text-white transition-colors cursor-pointer">How It Works</a>
